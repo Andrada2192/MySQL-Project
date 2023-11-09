@@ -5,5 +5,5 @@ detalii despre baza de date si cum gandit, cate tabele, pe ce tipuri de date ne-
 ce am folosit din ddl(primary key, foreign key), dml si dql etc
 
 screenshot cu structura bazei de date de la reverse engineering-legatura intre tabele
-incarcam scpriptul resquel plus link catre fisier
+incarcam scpriptul sql plus link catre fisier
 
